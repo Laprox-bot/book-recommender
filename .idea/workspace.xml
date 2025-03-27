@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f18cb7-c3a0-42ac-b18b-ff0448af550f" name="Changes" comment="text classifications for categories">
+    <list default="true" id="72f18cb7-c3a0-42ac-b18b-ff0448af550f" name="Changes" comment="Gradio dashboard">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +110,7 @@
       <workItem from="1741775655992" duration="8805000" />
       <workItem from="1741876588274" duration="555000" />
       <workItem from="1743027226916" duration="8393000" />
-      <workItem from="1743083306238" duration="6271000" />
+      <workItem from="1743083306238" duration="7160000" />
     </task>
     <task id="LOCAL-00001" summary="data cleaned">
       <option name="closed" value="true" />
@@ -135,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743088485246</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sentiment analysis using book description with fine tuned llm &quot;emotion-english-distilroberta-base&quot;">
+      <option name="closed" value="true" />
+      <created>1743090318800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743090318800</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Gradio dashboard">
+      <option name="closed" value="true" />
+      <created>1743090338651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743090338651</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,9 +173,11 @@
     <MESSAGE value="data cleaned" />
     <MESSAGE value="book recommendations using vector search" />
     <MESSAGE value="text classifications for categories" />
-    <option name="LAST_COMMIT_MESSAGE" value="text classifications for categories" />
+    <MESSAGE value="Sentiment analysis using book description with fine tuned llm &quot;emotion-english-distilroberta-base&quot;" />
+    <MESSAGE value="Gradio dashboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gradio dashboard" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/book_recommender$gradio_dashboard.coverage" NAME="gradio-dashboard Coverage Results" MODIFIED="1743089550360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/book_recommender$gradio_dashboard.coverage" NAME="gradio-dashboard Coverage Results" MODIFIED="1743090092635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
