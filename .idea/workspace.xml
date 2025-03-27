@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f18cb7-c3a0-42ac-b18b-ff0448af550f" name="Changes" comment="data cleaned">
-      <change afterPath="$PROJECT_DIR$/vector-search.ipynb" afterDir="false" />
+    <list default="true" id="72f18cb7-c3a0-42ac-b18b-ff0448af550f" name="Changes" comment="book recommendations using vector search">
+      <change afterPath="$PROJECT_DIR$/text-classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/book-recommender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/book-recommender.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,21 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +80,8 @@
       <updated>1741775655167</updated>
       <workItem from="1741775655992" duration="8805000" />
       <workItem from="1741876588274" duration="555000" />
-      <workItem from="1743027226916" duration="6743000" />
+      <workItem from="1743027226916" duration="8393000" />
+      <workItem from="1743083306238" duration="4578000" />
     </task>
     <task id="LOCAL-00001" summary="data cleaned">
       <option name="closed" value="true" />
@@ -88,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741783091891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="book recommendations using vector search">
+      <option name="closed" value="true" />
+      <created>1743081651676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743081651676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="data cleaned" />
-    <option name="LAST_COMMIT_MESSAGE" value="data cleaned" />
+    <MESSAGE value="book recommendations using vector search" />
+    <option name="LAST_COMMIT_MESSAGE" value="book recommendations using vector search" />
   </component>
 </project>
