@@ -23,3 +23,7 @@ This project is a book recommendation application based on sentiment analysis an
    ```sh
    python gradio-dashboard.py
    ```
+
+
+
+Note : This project is inspired by and drawn from the following course: https://www.youtube.com/watch?v=Q7mS1VHm3Yw&t=7859s
